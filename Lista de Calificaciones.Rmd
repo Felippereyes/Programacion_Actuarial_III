@@ -1,0 +1,69 @@
+---
+title: "KARDEX"
+author: "Luis Felipe Reyes Guerrero"
+date: "29 de agosto de 2016"
+output: html_document
+---
+------
+
+#**Lista de materias**
+
+##*Primer Semestre*
+
+* Programacion Actuarial I  05
+* Intr a la Profesion Actuarial  05
+* DHPC  09
+* Conceptos de Calculo  05
+* Matematicas Basicas  05
+* Problemas de Mat. Basicas  05
+
+##*Segundo Semestre*
+
+* Programacion Actuarial I  05
+* Microeconomia  10
+* Formacion Humana y Social  10
+* Conceptos de Calculo  07
+* Matematicas Basicas  05
+* Teoria de Ecuaciones 05
+
+##*Tercer Semestre*
+
+* Programacion Actuarial I  05
+* Macroeconomia  08
+* DHTIC  10
+* Matematicas Basicas  07
+* Problemas de Mat. Basicas  07
+
+##*Cuarto Semestre*
+
+* Teoria del Interes I  07
+* Reg. Acad. y Cient. del Esp.  10
+* Calculo Diferencial  08
+* Teoria de Ecuaciones  06
+
+##*Quinto Semestre*
+
+* Programacion Actuarial I  06
+* Teoria del Interes II  08
+* Contabilidad General  09
+* Calculo Integral  05
+* Algebra Lineal I  09
+
+##*Sexto Semestre*
+
+* Programacion Actuarial II  07
+* Sistema Financiero Mexicano  09
+* Demografia I  08
+* Geometria Analitica  10
+
+##*Septimo Semestre*
+
+* Programacion Actuarial III SC
+* Legislacion de Seguros SC
+* Calculo Integral SC
+* Matematicas Actuariales I SC
+* Estructuras Algebraicas SC
+* Derivados Financieros SC.
+
+---
+
